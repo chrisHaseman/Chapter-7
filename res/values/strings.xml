@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_text">Do You Like Chocolate?</string>
+    <string name="app_name">LayoutExampleProject</string>
+    <string name="yes_button_text">Why, Yes I do!</string>
+    <string name="no_button_text">No, I\'m Allergic to Happiness.</string>
+</resources>
